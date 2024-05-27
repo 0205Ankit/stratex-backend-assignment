@@ -29,6 +29,6 @@ Follow these steps to set up the project on your local machine:
     npm install
 
    # Start the project
-    npm run dev
+    npm start
 
    ```
